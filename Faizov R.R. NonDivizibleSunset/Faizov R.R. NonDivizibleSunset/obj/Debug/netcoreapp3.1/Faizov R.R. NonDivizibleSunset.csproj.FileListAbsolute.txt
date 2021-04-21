@@ -1,0 +1,32 @@
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\bin\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.exe
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\bin\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.deps.json
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\bin\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.runtimeconfig.json
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\bin\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.runtimeconfig.dev.json
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\bin\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.dll
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\bin\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.pdb
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.csprojAssemblyReference.cache
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov_R.R._NonDivizibleSunset.Form1.resources
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.csproj.GenerateResource.cache
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.AssemblyInfoInputs.cache
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.AssemblyInfo.cs
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.csproj.CoreCompileInputs.cache
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.dll
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.pdb
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.genruntimeconfig.cache
+C:\Программирование\Отчет\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov_R.R._NonDivizibleSunset.Properties.Resources.resources
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\bin\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.exe
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\bin\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.deps.json
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\bin\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.runtimeconfig.json
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\bin\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.runtimeconfig.dev.json
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\bin\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.dll
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\bin\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.pdb
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.csprojAssemblyReference.cache
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov_R.R._NonDivizibleSunset.Properties.Resources.resources
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.csproj.GenerateResource.cache
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.AssemblyInfoInputs.cache
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.AssemblyInfo.cs
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.csproj.CoreCompileInputs.cache
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.dll
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.pdb
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov R.R. NonDivizibleSunset.genruntimeconfig.cache
+C:\Faizov R.R. NonDivizibleSunset\Faizov R.R. NonDivizibleSunset\obj\Debug\netcoreapp3.1\Faizov_R.R._NonDivizibleSunset.NonDivisibleSunset.resources

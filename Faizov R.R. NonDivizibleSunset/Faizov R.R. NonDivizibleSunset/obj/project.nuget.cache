@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ROfy3WHU0CNfU4wXUapCAeodA5G3rC1TVkUoPlL9scKME10+U/E4LBnDYwU47nukMAqfEeGwdb3OIFLne9FazQ==",
+  "success": true,
+  "projectFilePath": "C:\\Faizov R.R. NonDivizibleSunset\\Faizov R.R. NonDivizibleSunset\\Faizov R.R. NonDivizibleSunset.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1647592\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
